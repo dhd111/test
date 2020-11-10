@@ -1,0 +1,15 @@
+Package: com.rileytestut.altstore.alpha.jailbroken 
+Version: 1.4a9
+Architecture: iphoneos-arm
+Maintainer: DHD111
+Depends: com.rileytestut.altdaemon
+Conflicts: org.cydia.kiimo.altstore,
+com.hackyouriphone.altstore,
+Filename: Debs/com.rileytestut.altstore.alpha.jailbroken
+Size: 5034382 Bytes
+MD5sum: 540d217265080e0c5be78540a3cbbba9
+SHA1: def01e170eddb3834473c85b718bf2a80d6e1e4b
+SHA256: ccdb52ac6c9afddae356333c273841c40adad336ef9dcfd7a21b1ad53397602a
+Section: Application
+Depiction: https://dhd111.github.io 
+Name: altstore alpha
