@@ -21,9 +21,9 @@ Depends:
 Conflicts: 
 Filename: debs/com.rileytestut.altdaemon
 Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+MD5sum: 83660c2d5119ac6ecce72236b27cfae4
+SHA1: 3c7ce20ff72c17f17a1415b14534a9be3fc41ca1
+SHA256: 1f5b35f4c402f6abab69e1833b260a4dfac156bbe1f9807b7aec4cd22665cc95
 Section: System
-Depiction: 
+Depiction: https://dhd111.github.io 
 Name: Altdaemon
