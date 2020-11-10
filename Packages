@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: DHD111
 Depends: 
 Conflicts: 
-Filename: Debs/com.rileytestut.altstore.alpha.jailbroken
+Filename: debs/com.rileytestut.altstore.alpha.jailbroken
 Size: 5034382 Bytes
 MD5sum: 540d217265080e0c5be78540a3cbbba9
 SHA1: def01e170eddb3834473c85b718bf2a80d6e1e4b
@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Maintainer: Riley Testut & DHD111
 Depends:  
 Conflicts: 
-Filename: Debs/com.rileytestut.altdaemon
+Filename: debs/com.rileytestut.altdaemon
 Size: 
 MD5sum: 
 SHA1: 
