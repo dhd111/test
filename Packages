@@ -13,3 +13,17 @@ Section: Tweaks
 Depiction: https://dhd111.github.io 
 Name: altstore alpha
 
+Package: com.rileytestut.altdaemon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Riley Testut & DHD111
+Depends:  
+Conflicts: 
+Filename: Debs/com.rileytestut.altdaemon
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: System
+Depiction: 
+Name: Altdaemon
