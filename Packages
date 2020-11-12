@@ -6,10 +6,10 @@ Depends: com.rileytestut.altdaemon
 Conflicts: org.cydia.kiimo.altstore,
 com.hackyouriphone.altstore,
 Filename: debs/com.rileytestut.altstore.alpha.jailbroken.deb
-Size: 5034382 
-MD5sum: 540d217265080e0c5be78540a3cbbba9
-SHA1: def01e170eddb3834473c85b718bf2a80d6e1e4b
-SHA256: ccdb52ac6c9afddae356333c273841c40adad336ef9dcfd7a21b1ad53397602a
+Size: 4434822 
+MD5sum: 8cc52ba44d7171d937f8804531e18dc2
+SHA1: 73618317411b8dc952dbc3ce6f0649112803c936
+SHA256: c5cfbebbf0f014e6d1784dca90c430b614cc689a05ec92cecc1ea972e46fa123
 Section: Application
 Depiction: https://dhd111.github.io 
 Name: altstore alpha1
