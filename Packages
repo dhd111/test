@@ -69,7 +69,7 @@ Maintainer: XfF1re & dhd111
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader, firmware (>=11.0)
 Conflicts: kr.xsf1re.flyjb
 Filename: debs/kr.xsf1re.flyjbx
-Size: 451708 
+Size: 451708
 MD5sum: bca6238ece0bcadac32d62bd47d0ac0a
 SHA1: bbf15ab7eaef7bf1c91716f30f8b485f06c9d7d9
 SHA256: 0d9ffa46e17a90fb378fb3f0ca4255531b769c5ba880cc239f6343287f4fb9e3
